@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Jose Alexander](jose.jpg)
+
 <!--
 **JoseAlexanderDjojo/JoseAlexanderDjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
